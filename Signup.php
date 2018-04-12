@@ -2,7 +2,7 @@
 
     if(array_key_exists('email', $_POST) OR array_key_exists('password', $_POST)){
         
-        $link = mysqli_connect("localhost","cl11-viddb","7/Hwhds3R", "cl11-viddb" );
+        $link = mysqli_connect("localhost", "cl29-secretdi", "D-fnT^Hbz", "cl29-secretdi");
         if(mysqli_connect_error())
         {
             echo "There was an error connecting to the database.";
