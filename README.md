@@ -1,1 +1,3 @@
-# secret dairy created using PHP, MySQL, Bootstrap.
+# secret dairy 
+
+Scret Dairy created using PHP, MySQL, Bootstrap.
